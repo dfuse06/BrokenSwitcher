@@ -7,3 +7,5 @@ Credit for background image Clint Thebus
 
 Stay Broken Bitches 
 
+<img src="https://raw.github.com/dfuse06/BrokenSwitcher/master/BrokenSwitcher.png">
+<img src="https://raw.github.com/dfuse06/BrokenSwitcher/master/BrokenSwitcher.png2">
