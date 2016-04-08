@@ -3,15 +3,15 @@ A app for the ZTE Zmax to trick the partition to allow system write.
 
 Credit for icon: Jesses Smith
 
-Credit for background image Clint Thebus 
+Credit for background: image Clint Thebus 
 
-Credit to rufflez SupportDesignLibrarySample
+Credit for SupportDesignLibrarySample: rufflez
 https://github.com/rufflez/SupportDesignLibrarySample
 
-Credit Stericsonh for root tool 
+Credit for root tool: Stericsonh 
 Https://github.com/Stericson/RootTools
 
-Credit to DF1E for SimpleExplorer and root tool code 
+Credit for SimpleExplorer: DF1E
 https://github.com/DF1E/SimpleExplorer#license
 
 Stay Broken Bitches 
