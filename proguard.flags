@@ -1,0 +1,11 @@
+# Xml files containing onClick (menus and layouts) require that proguard not
+# remove their handlers.
+-keepclassmembers class * extends android.app.Activity {
+  public void *(android.view.View);
+  public void *(android.view.MenuItem);
+}
+
+# Keep behavior class needed by design library
+-keep class android.support.design.widget.AppBarLayout$ScrollingViewBehavior { *; }
+
+-verbose
