@@ -14,7 +14,7 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_marginTop="60dp"
         android:id="@+id/textView"
-        android:text="Pull images first."
+        android:text="@string/pull_images_info"
         android:fontFamily="sans-serif-thin"
         android:layout_gravity="top" />
 
@@ -23,7 +23,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
-        android:text="Pull images"
+        android:text="@string/pull_images"
         android:id="@+id/button"
         android:layout_gravity="top" />
 
@@ -33,7 +33,7 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_marginTop="190dp"
         android:id="@+id/textView2"
-        android:text="Now write to system"
+        android:text="@string/write_system_info"
         android:fontFamily="sans-serif-thin"
         android:layout_gravity="top" />
 
@@ -42,7 +42,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="230dp"
-        android:text="System write"
+        android:text="@string/write_system"
         android:id="@+id/button2"
         android:layout_gravity="top" />
 
@@ -53,8 +53,7 @@
         android:layout_marginTop="300dp"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:gravity="center"
-        android:text="Reboot to have Android with system r/w capability.
-        Use the fab button."
+        android:text="@string/reboot_fab_rw"
         android:fontFamily="sans-serif-thin"
         android:id="@+id/textView1"
         android:layout_gravity="center_horizontal" />
