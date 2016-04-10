@@ -40,6 +40,7 @@ public class SystemWrite extends Fragment {
 
         pull.setOnClickListener(new View.OnClickListener() {
             public void onClick(View v) {
+
                 startpull();
 
             }
