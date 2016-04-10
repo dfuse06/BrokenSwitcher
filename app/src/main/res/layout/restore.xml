@@ -13,19 +13,17 @@
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:layout_marginTop="120dp"
         android:id="@+id/textView2"
-        android:text="Restore system to normal"
+        android:text="@string/return_to_norm"
         android:fontFamily="sans-serif-thin"
         android:layout_gravity="top" />
-
 
     <Button
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_marginTop="160dp"
-        android:text="Restore System"
+        android:text="@string/restore_system"
         android:id="@+id/button3"
         android:layout_gravity="top" />
-
 
     <TextView
         android:layout_width="wrap_content"
@@ -33,8 +31,7 @@
         android:layout_marginTop="300dp"
         android:textAppearance="?android:attr/textAppearanceMedium"
         android:gravity="center"
-        android:text="Reboot to have Android system restored to normal.
-        Use the fab button."
+        android:text="@string/reboot_fab_info"
         android:fontFamily="sans-serif-thin"
         android:id="@+id/textView1"
         android:layout_gravity="center_horizontal" />
@@ -48,7 +45,5 @@
         android:src="@android:drawable/ic_menu_rotate"
         android:layout_marginRight="16dp"
         android:layout_marginBottom="16dp"/>
-
-
 
 </android.support.design.widget.CoordinatorLayout>
