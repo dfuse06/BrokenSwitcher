@@ -11,5 +11,5 @@
     <string name="pull_images">Pull images</string>
     <string name="write_system_info">Now write to system</string>
     <string name="write_system">System write</string>  
-    <string name="reboot_fab_rw">Reboot to have Android with system r/w capability. Use the fab button.</string>
+    <string name="reboot_fab_rw">Reboot to have Android with system r/w capability.Use the fab button.</string>
 </resources>
