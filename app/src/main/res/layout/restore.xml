@@ -36,6 +36,18 @@
         android:id="@+id/textView1"
         android:layout_gravity="center_horizontal" />
 
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="350dp"
+        android:textAppearance="?android:attr/textAppearanceMedium"
+        android:gravity="center"
+        android:text="@string/reboot_fab_info2"
+        android:fontFamily="sans-serif-thin"
+        android:id="@+id/textView"
+        android:layout_gravity="center_horizontal" />
+
+
     <android.support.design.widget.FloatingActionButton
         android:id="@+id/fab2"
         android:layout_width="wrap_content"

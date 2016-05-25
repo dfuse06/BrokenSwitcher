@@ -4,12 +4,13 @@
     
     <string name="return_to_norm">Restore system to normal</string>
     <string name="restore_system">Restore System</string>
-    <string name="reboot_fab_info">Reboot to have Android system restored to normal.Use the fab button.</string>
+    <string name="reboot_fab_info">Reboot to have Android system restored to normal</string>
+    <string name="reboot_fab_info2">Use the fab button.</string>
     <string name="action_settings">Settings</string>
     <string name="pull_images_info">Pull images first.</string>
     <string name="pull_images">Pull images</string>
     <string name="write_system_info">Now write to system</string>
     <string name="write_system">System write</string>
     <string name="icon">Hide icon in app draw</string>
-    <string name="reboot_fab_rw">Reboot to have Android with system r/w capability.Use the fab button.</string>
+    <string name="reboot_fab_rw">Reboot to have Android with system r/w capability.</string>
 </resources>
